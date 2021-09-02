@@ -1,0 +1,156 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Kyle Garcia"
+  label: "Game Engineer"
+  picture: /assets/img/1x1-bw.png
+  email: "kkpgarcia@gmail.com"
+  phone: "by request"
+  website: "kkpgarcia.github.io"
+  summary: >
+    A game engineer for six years and focusing on game engine technology. Knowledgeable in different areas of development such as mobile, web, server, and game development. Graduate of Asia Pacific College AB Multimedia Arts, and Master of Science in Computer Science.
+  profiles:
+    - network: "LinkedIn"
+      username: "kkpgarcia"
+      url: "https://www.linkedin.com/in/kkpgarcia/"
+work:
+  - company: "Haptiq"
+    position: "Senior Software Engineer"
+    website: "https://www.haptiq.no/"
+    startDate: "2021-08-02"
+    summary: >
+      Haptiq is pioneering virtual twin simulators for training, planning and collaboration. 
+      
+      My primary responsibility is to deliver the best software engineer solutions to the products of Haptiq. It includes initiatives to help improve the project's architecture and help people adhere and be comfortable with it.
+      Along with the project, one of my responsibility as one of the leads is to make sure that the production runs efficiently and everyone in the team has everything they need in the development.
+
+  - company: "Play N' Go"
+    position: "Senior Software Developer"
+    website: "https://www.playngo.com/"
+    startDate: "2020-09-20"
+    endDate: "2021-07-02"
+    summary: >
+      As a senior software developer, my responsibility is to deliver Play N' Go products with the highest fidelity and feasibility. 
+      Along with the projects, a close collaboration with people in different practices is exercised.
+  - company: "Narrasoft"
+    position: "Senior Software Developer"
+    website: "https://narrasoft.com/"
+    startDate: "2019-09-20"
+    endDate: "2020-01-10"
+    summary: >
+      NarraSoft’s teams serve as an extension of our clients’ operations
+      who outsource digital solutions with excellence and quality in mind
+      As a Senior Software Developer, I am closely involved with clients to collaborate further to produce the right product for them.
+  - company: "MOS Studio"
+    position: "Lead Game Developer"
+    website: "http://tofuheroes.mos.asia/"
+    startDate: "2018-07-10"
+    endDate: "2019-07-11"
+    summary: >
+      Initially, I was hired as a Backend Developer. With an initiative in mind, I proposed leading the Philippines game development team instead of improving its pipeline and delivering quicker.
+
+      Being the lead, I was part of the decision process in the studio. I have handled different professionals from Artists, Developers, and Business Marketing.
+
+      One initiative has also helped the studio save USD 5000/month in redundant services and streamlining the production processes.
+    highlights:
+      - "Saved USD 5000/month in bills"
+      - "Lead a development studio to success"
+      - "Released a game earlier than the proposed timeline"
+volunteer:
+  - organization: "International Game Developer's Association: Philippines"
+    position: "Member of the Board of Directors"
+    website: "https://igda.org/chapters/ph-manila/"
+    startDate: "2012-01-01"
+    endDate: "2013-01-01"
+    summary: >
+      Manila is a chapter of the largest non-profit membership organization in the world serving all individuals who create games. The organization helps build the local game development industry by focusing on capacity building, connecting peers, and increasing awareness, not just in the Philippines, but also globally.
+education:
+  - institution: "Asia Pacific College"
+    area: "Computer Science"
+    studyType: "Master of Science"
+    startDate: "2011-06-01"
+    endDate: "2014-01-01"
+    gpa: "3.39"
+  - institution: "Asia Pacific College"
+    area: "Multimedia Arts"
+    studyType: "Bachelor of Arts"
+    startDate: "2011-06-01"
+    endDate: "2014-01-01"
+    gpa: "3.2"
+awards:
+  - title: "Best Paper"
+    date: "2014-11-01"
+    awarder: "Conference on Remote Sensing and Geoinformation of Environment"
+publications:
+  - name: "Streamlining Machine Learning in Mobile Devices for Remote Sensing"
+    publisher: "RSCy2016"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Created a platform that detects a virus in the samples of banana trees using OpenCV."
+skills:
+  - name: "Game Development"
+    level: "Master"
+    keywords:
+      - "Unity"
+      - "C++"
+      - "C#"
+      - "GLSL"
+      - ".NET"
+  - name: "Web Development"
+    level: "Intermediate"
+    keywords:
+      - "HTML"
+      - "CSS"
+      - "Javascript"
+      - "Golang"
+      - "PHP"
+      - ".NET Core"
+      - "WebGL"
+  - name: "Mobile Development"
+    level: "Intermediate"
+    keywords:
+      - "React Native"
+      - "Javascript"
+      - ".NET Core"
+      - "Xamarin"
+  - name: "Game Engineering"
+    level: "Intermediate"
+    keywords:
+      - "C++"
+      - "OpenGL"
+      - "Scripting"
+      - "WebGL"
+      - "WebGL2"
+  - name: "Programming Languages"
+    level: "Master"
+    keywords:
+      - "C++"
+      - "C#"
+      - "Java"
+      - "JavaScript"
+      - "PHP"
+      - "Golang"
+      - "C"
+      - "Kotlin"
+  - name: "Software Engineering"
+    level: "Master"
+    keywords:
+      - "System Architecture"
+      - "Programming Patterns"
+      - "Compiler Theory"
+      - "Artificial Intelligence"
+  - name: "Game Art"
+    level: "Master"
+    keywords:
+      - "Adobe Photoshop"
+      - "Adobe Illustrator"
+      - "Blender3D"
+      - "Spine"
+      - "Animation"
+      - "3D Modeling"
+languages:
+  - language: "English"
+    fluency: "Full professional proficiency"
+  - language: "Filipino"
+    fluency: "Native speaker"
