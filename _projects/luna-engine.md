@@ -4,9 +4,9 @@ title: 'Luna Engine'
 caption: WebGL2 Engine Graphics API
 description: >
   A personal project to learn and practice game engine architecture and webgl process.
-date: 1 Jun 2020
+date: 1 Jun 2021
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/projects/luna-engine.png
   srcset: 
     1920w: /assets/img/projects/luna-engine.png
 links:
