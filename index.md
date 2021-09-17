@@ -21,8 +21,6 @@ Mobile Development would be my least strong compared to other types of developme
 
 <!--projects-->
 
-
-
 [blog]: https://kkpgarcia.github.io/blog/
 [portfolio]: https://kkpgarcia.github.io/projects/
 [resume]: https://kkpgarcia.github.io/resume/

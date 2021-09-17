@@ -16,4 +16,12 @@ accent_image:
   background: '#193747'
 theme_color: '#193747'
 sitemap: false
+
 ---
+---
+
+### Technology
+
+|:---------|:----------|
+| Engine      |         Confidential | 
+| Language      |         TypeScript | 

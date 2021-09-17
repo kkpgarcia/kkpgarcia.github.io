@@ -17,4 +17,12 @@ accent_image:
   background: '#193747'
 theme_color: '#193747'
 sitemap: false
+featured: true
 ---
+---
+
+### Technology
+
+|:---------|:----------|
+| Rendering    |        OpenGL |
+| Language      |         C++ | 

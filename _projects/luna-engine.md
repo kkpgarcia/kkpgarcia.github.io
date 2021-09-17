@@ -18,6 +18,12 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
+---
+
+### Technology
+
+|:---------|:----------|
+| Language      |         TypeScript | 
 
 Luna Engine is a personal RND for software architecture. It is a web-based rendering engine that is built in WebGL2 that runs on different platforms.
 

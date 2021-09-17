@@ -14,3 +14,10 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
+---
+
+### Technology
+|:---------|:----------|
+| Engine      |         Unity | 
+| Language      |         C# | 
+| VR      |         Oculus DK1 | 

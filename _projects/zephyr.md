@@ -14,3 +14,13 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
+---
+
+### Technology
+
+|:---------|:----------|
+| Engine    |        Unreal |
+| Language      |         C++/Blueprint | 
+
+The concept of Zephyr were born from the original team of Kuna. It was supposed to be a continuation of the original projects of Synergy88 but it was never realized after a shift of focus in the management. After years on the shelf,
+it was again brought up and became one of the showcase project of Synergy88. Sasdly, it still remained unfinished.

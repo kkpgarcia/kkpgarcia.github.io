@@ -17,7 +17,15 @@ accent_image:
   background: '#193747'
 theme_color: '#193747'
 sitemap: false
+featured: true
 ---
+---
+
+### Technology
+
+|:---------|:----------|
+| Language      |         Java | 
+| Backend      |         Java | 
 
 This engine was my final project in an Introduction to Computer Science II. The idea of the project is to create a simple game using Java Graphics API and a server that would enable multiplayer.
 
