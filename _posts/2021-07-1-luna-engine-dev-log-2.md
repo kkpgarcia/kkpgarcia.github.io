@@ -10,12 +10,9 @@ hide_last_modified: true
 
 The Luna Engine 0.0.3 consists of a stable 3D Rendering API:
 
-!! IMAGE HERE !!
-
 3D Sandbox Scene of the Engine
 There's still a lot to work on like this as the process of producing this 3D scene is still incredibly rigid because I still haven't encapsulated the mesh creation process into one pipeline:
 
-!! CODE HERE !!
 
 The vertices of the cube are still hardcoded. Luckily for the normals, it wasn't really that hard to calculate all of those in runtime. However, these data should come from the 3D models, such as OBJ and their material properties. Given that most GL calls are already encapsulated to their own buffers and automatically lays everything for OpenGL to read them, it will be pretty easy enough to encapsulate these into one class, maybe a Mesh class? I have yet to finalize it since I still need to understand how skinned meshes and my plans for the material system of the engine.
 Another challenge for this is the scene graph of the whole 3D scene of the engine. It is pretty easy to make a graph, as I have done a ton over the years; the real challenge here is the matrix calculation of each node and how they should be rendered.

@@ -7,7 +7,7 @@ basics:
   picture: /assets/img/1x1-bw.png
   email: "kkpgarcia@gmail.com"
   phone: "by request"
-  website: "kkpgarcia.github.io"
+  website: https://kkpgarcia.github.io/
   summary: >
     A game engineer for six years and focusing on game engine technology. Knowledgeable in different areas of development such as mobile, web, server, and game development. Graduate of Asia Pacific College AB Multimedia Arts, and Master of Science in Computer Science.
   profiles:
@@ -48,11 +48,11 @@ work:
     startDate: "2018-07-10"
     endDate: "2019-07-11"
     summary: >
-      Initially, I was hired as a Backend Developer. With an initiative in mind, I proposed leading the Philippines game development team instead of improving its pipeline and delivering quicker.
+      Initially, I was hired as a Backend Developer. I proposed leading the Philippines game development team instead of improving its pipeline and delivering quicker with an initiative in mind.
 
       Being the lead, I was part of the decision process in the studio. I have handled different professionals from Artists, Developers, and Business Marketing.
 
-      One initiative has also helped the studio save USD 5000/month in redundant services and streamlining the production processes.
+      One initiative has also helped the studio save USD 5000/month in redundant services and streamline the production processes.
     highlights:
       - "Saved USD 5000/month in bills"
       - "Lead a development studio to success"
@@ -64,7 +64,7 @@ volunteer:
     startDate: "2012-01-01"
     endDate: "2013-01-01"
     summary: >
-      Manila is a chapter of the largest non-profit membership organization in the world serving all individuals who create games. The organization helps build the local game development industry by focusing on capacity building, connecting peers, and increasing awareness, not just in the Philippines, but also globally.
+      Manila is a chapter of the largest non-profit organization globally, serving all individuals creating games. The organization helps build the local game development industry by focusing on capacity building, connecting peers, and increasing awareness in the Philippines and globally.
 education:
   - institution: "Asia Pacific College"
     area: "Computer Science"
@@ -97,6 +97,7 @@ skills:
       - "C#"
       - "GLSL"
       - ".NET"
+      - "OpenGL"
   - name: "Web Development"
     level: "Intermediate"
     keywords:
@@ -107,6 +108,7 @@ skills:
       - "PHP"
       - ".NET Core"
       - "WebGL"
+      - "WebGL 2"
   - name: "Mobile Development"
     level: "Intermediate"
     keywords:
