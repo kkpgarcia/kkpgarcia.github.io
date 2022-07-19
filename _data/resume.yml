@@ -9,7 +9,7 @@ basics:
   phone: "by request"
   website: https://kkpgarcia.github.io/
   summary: >
-    A game engineer for six years and focusing on game engine technology. Knowledgeable in different areas of development such as mobile, web, server, and game development. Graduate of Asia Pacific College AB Multimedia Arts, and Master of Science in Computer Science.
+    A game engineer for 7 years and focusing on game engine technology. Knowledgeable in different areas of development such as mobile, web, server, and game development. Graduate of Asia Pacific College AB Multimedia Arts, and Master of Science in Computer Science.
   profiles:
     - network: "LinkedIn"
       username: "kkpgarcia"
@@ -20,10 +20,17 @@ work:
     website: "https://www.haptiq.no/"
     startDate: "2021-08-02"
     summary: >
-      Haptiq is pioneering virtual twin simulators for training, planning and collaboration. 
+      Haptiq is pioneering virtual twin simulators for training, planning and collaboration.
       
-      My primary responsibility is to deliver the best software engineer solutions to the products of Haptiq. It includes initiatives to help improve the project's architecture and help people adhere and be comfortable with it.
-      Along with the project, one of my responsibility as one of the leads is to make sure that the production runs efficiently and everyone in the team has everything they need in the development.
+      * Team Management - Collaborated with the team for their tasks, well-being, and quality of life
+      * Project Management - Managed all tasks, sprints, and retrospectives for both Manila and Norway
+      * Architecture Design - Implemented a Context Framework for Test Driven Development
+      * Event Driven System - Implemented a system for a loose coupled structure
+      * Binding Frameowrk - Implemented an underlying framework that enables relation between objects with reusable resolutions
+      * Key Bindings and Manipulation - Implemented a system that unifies interaction, and isolate them for reusability
+      * Command Bindings - Implemented a system for reusable command structure
+      * No-Code Graph System - Implemented a system for creating trainings, and run-time graph editor
+      * Runtime Scene Editing - Implemented a runtime control for editing scenes with gizmo
 
   - company: "Play N' Go"
     position: "Senior Software Developer"
