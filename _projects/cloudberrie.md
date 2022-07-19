@@ -9,7 +9,7 @@ image:
   srcset: 
     1920w: /assets/img/projects/cb1.png
 links:
-  - title: Slot Review and Demo
+  - title: Cloudberrie Website
     url: https://www.cloudberrie.io/
 accent_color: '#4fb1ba'
 accent_image:
