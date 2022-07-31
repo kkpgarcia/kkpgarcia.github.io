@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Cloudberrie Builder & Viewer'
+title: 'Cloudberrie Viewer'
 description: >
   An application of Cloudberrie where you can play the experiences that you built using Cloudberrie Builder
 date: 1 Aug 2021
