@@ -13,7 +13,7 @@ links:
     url: https://www.cloudberrie.io/
 accent_color: '#4fb1ba'
 accent_image:
-  background: url(/assets/img/projects/cb-builder.png) center/cover
+  background: url(/assets/img/projects/cb2.png ) center/cover
 theme_color: '#193747'
 sitemap: false
 

@@ -9,11 +9,11 @@ image:
   srcset: 
     1920w: url(/assets/img/projects/cb1.png) center/cover
 links:
-  - title: Cloudberrie Website
+  - title: Cloudberrie Websites
     url: https://www.cloudberrie.io/
 accent_color: '#4fb1ba'
 accent_image:
-  background: url(/assets/img/projects/cb1.png) center/cover
+  background: url(/assets/img/projects/cb4.png) center/cover
 theme_color: '#193747'
 sitemap: false
 
