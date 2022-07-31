@@ -36,6 +36,6 @@ Builder 1.0 is the 2nd iteration of Cloudberrie Builder where UX team are now in
 
 ![200x200](/assets/img/projects/cb3.png "Small example image")
 
-I was only involved in the instruction system since it usuable, but not that extensible. Here I adapted a no-code approach where a user could create instructions using nodes, and conditions which are pre-requisite to move to next connected nodes.
+I was only involved in the instruction system since its not that extensible. Here I adapted a no-code approach where a user could create instructions using nodes, and conditions which are pre-requisite to move to next connected nodes.
 
 It was improved by the UX team to be user friendly and simple.
