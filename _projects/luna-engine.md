@@ -8,7 +8,7 @@ date: 1 Jun 2021
 image: 
   path: /assets/img/projects/luna-engine.png
   srcset: 
-    1920w: /assets/img/projects/luna-engine.png
+    1920w: url(/assets/img/projects/luna-engine.png) center/cover
 links:
   - title: Github
     url: https://github.com/kkpgarcia/luna-engine

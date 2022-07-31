@@ -8,7 +8,7 @@ date: 10 July 2019
 image: 
   path: /assets/img/projects/stella-eng.png
   srcset: 
-    1920w: /assets/img/projects/stella-eng.png
+    1920w: url(/assets/img/projects/stella-eng.png) center/cover
 links:
   - title: Github
     url: https://github.com/kkpgarcia/luna-engine

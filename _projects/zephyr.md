@@ -7,7 +7,7 @@ date: 1 Jun 2020
 image: 
   path: /assets/img/projects/zephyr.png
   srcset: 
-    1920w: /assets/img/projects/zephyr.png
+    1920w: url(/assets/img/projects/zephyr.png) center/cover
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'

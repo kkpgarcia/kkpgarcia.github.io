@@ -7,7 +7,7 @@ date: 13 Jan 2018
 image: 
   path: /assets/img/projects/Screenshot 2021-09-04 114301.png
   srcset: 
-    1920w: /assets/img/projects/Screenshot 2021-09-04 114301.png
+    1920w: url(/assets/img/projects/Screenshot 2021-09-04 114301.png) center/cover
 links:
   - title: Kim's Garden Facebook Page
     url: https://www.facebook.com/kimsgardengame

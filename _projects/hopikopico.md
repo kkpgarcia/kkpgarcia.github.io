@@ -7,7 +7,7 @@ date: 1 Feb 2016
 image: 
   path: /assets/img/projects/hpico.png
   srcset: 
-    1920w: /assets/img/projects/hpico.png
+    1920w: url(/assets/img/projects/hpico.png) center/cover
 links:
   - title: Github
     url: https://www.facebook.com/hoppicopiko/

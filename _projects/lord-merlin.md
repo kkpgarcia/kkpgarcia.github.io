@@ -7,7 +7,7 @@ date: 15 Sep 2020
 image: 
   path: /assets/img/projects/merlin.png
   srcset: 
-    1920w: /assets/img/projects/merlin.png
+    1920w: url(/assets/img/projects/merlin.png) center/cover
 links:
   - title: Demo
     url: https://www.bigwinboard.com/lord-merlin-and-the-lady-of-the-lake-playn-go-slot-review/

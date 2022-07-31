@@ -7,7 +7,7 @@ date: 3 Feb 2021
 image: 
   path: /assets/img/projects/Screenshot 2021-09-04 1140452.png
   srcset: 
-    1920w: /assets/img/projects/Screenshot 2021-09-04 1140452.png
+    1920w: url(/assets/img/projects/Screenshot 2021-09-04 1140452.png) center/cover
 links:
   - title: Slot Review and Demo
     url: https://www.bigwinboard.com/candy-island-princess-playn-go-slot-review/

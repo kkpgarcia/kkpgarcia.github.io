@@ -7,7 +7,7 @@ date: 10 June 2017
 image: 
   path: /assets/img/projects/Screenshot 2021-09-04 113634.png
   srcset: 
-    1920w: /assets/img/projects/Screenshot 2021-09-04 113634.png
+    1920w: url(/assets/img/projects/Screenshot 2021-09-04 113634.png) center/cover
 links:
   - title: Website
     url: http://tofuheroes.mos.asia/

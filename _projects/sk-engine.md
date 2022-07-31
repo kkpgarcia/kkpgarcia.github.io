@@ -8,7 +8,7 @@ date: 1 Jun 2020
 image: 
   path: /assets/img/projects/sk-eng.png
   srcset: 
-    1920w: /assets/img/projects/sk-eng.png
+    1920w: url(/assets/img/projects/sk-eng.png) center/cover
 links:
   - title: Github
     url: https://github.com/kkpgarcia/java-game-engine

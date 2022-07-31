@@ -7,7 +7,7 @@ date: 1 Aug 2021
 image: 
   path: /assets/img/projects/cb-builder.png
   srcset: 
-    1920w: /assets/img/projects/cb-builder.png
+    1920w: url(/assets/img/projects/cb-builder.png) center/cover
 links:
   - title: Cloudberrie Website
     url: https://www.cloudberrie.io/

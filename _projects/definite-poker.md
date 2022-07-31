@@ -7,7 +7,7 @@ date: 1 Nov 2014
 image: 
   path: /assets/img/projects/defpoker.png
   srcset: 
-    1920w: /assets/img/projects/defpoker.png
+    1920w: url(/assets/img/projects/defpoker.png) center/cover
 links:
   - title: Appstore
     url: https://apps.apple.com/us/app/definite-poker-texas-holdem/id932243826
