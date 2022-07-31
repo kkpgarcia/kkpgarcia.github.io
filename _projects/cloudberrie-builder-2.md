@@ -48,3 +48,19 @@ An executable command that is reusable around the application and can be binded 
 ### Injection Framework
 
 In-house inversion-of-control container that resolves dependencies.
+
+### In-house Runtime Editing Scene
+
+In Builder 1.0, they used a third-party plugin to implement runtime editing. However, it was holding us back from extending the actual framework that they used. Instead of using the same approach, we implemented an in-house implementation of runtime editor.
+
+### GL Drawer
+s
+The first task on the runtime editor was to create simple and a fast way to draw primitives in the scene. We did not opt-in for 3D models as our drawer since it creates an unecessary overhead.
+
+### Runtime Transformation Gizmo
+
+Using the GL Drawer library, we were able to draw our own gizmos from scratch. This allowed us to get creative and have specific reactions to the interactions that we do.
+
+![200x200](/assets/img/projects/gizmo1.png "Small example image")
+![200x200](/assets/img/projects/gizmo2.png "Small example image")
+![200x200](/assets/img/projects/gizmo3.png "Small example image")
