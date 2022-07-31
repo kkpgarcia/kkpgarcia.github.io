@@ -13,7 +13,7 @@ links:
     url: https://www.bigwinboard.com/candy-island-princess-playn-go-slot-review/
 accent_color: '#4fb1ba'
 accent_image:
-  background: '#193747'
+  background: url(/assets/img/projects/Screenshot 2021-09-04 1140452.png) center/cover
 theme_color: '#193747'
 sitemap: false
 
